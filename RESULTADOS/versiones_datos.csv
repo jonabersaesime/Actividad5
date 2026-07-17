@@ -1,0 +1,3 @@
+Versión,Archivo,Filas,Columnas,SHA-256
+v1_original,datos/datos_ini/titanic_original.csv,891,15,81787d320d7f7b03df935e91de8bd19e11d45c5bbcab86ef4d4a76dc91b7d4f2
+v2_limpia,datos/datos_limp/titanic_limpio.csv,891,9,eb90d6abef8c751d7d75b3b6d578467beef546e342989559ff795aac3935883b
